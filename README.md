@@ -53,7 +53,7 @@
 ## 📂 Project Resources for Review
 For a detailed review of the technical implementation and the full report, please see the files below:
 
-* **[Zomato_Project.ipynb](./blr_resto_analysis.ipynb):** The complete Python code, including data cleaning, visualization, and statistical analysis.
+* **[blr_resto_analysis.ipynb](./blr_resto_analysis.ipynb):** The complete Python code, including data cleaning, visualization, and statistical analysis.
 * **[Bangalore_Resto_Success_Analysis.pdf](./BLR_Resto_Success_Analysis_Project.pdf):** The comprehensive project report exported from JupyterLab for a quick, readable overview of all findings.
 
 ---
