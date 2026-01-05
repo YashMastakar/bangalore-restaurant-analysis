@@ -11,7 +11,7 @@
 
 ## 📌 Project Overview
 
-The **Bangalore Restaurant Success Analysis** is an **end-to-end exploratory data analysis (EDA) project** aimed at identifying the key factors that contribute to restaurant success in Bangalore’s highly competitive food market.
+The **Bangalore Restaurant Success Analysis** is an **end-to-end exploratory data analysis project** aimed at identifying the key factors that contribute to restaurant success in Bangalore’s highly competitive food market.
 
 This project analyzes **51,000+ restaurants** to uncover insights related to:
 - Location
@@ -126,17 +126,13 @@ Helping restaurant investors:
 
 ---
 
-## 📂 Project Structure
-📁 Bangalore-Restaurant-Success-Analysis
-│
-├── 📓 blr-resto-analysis-using-python.ipynb
-├── 📄 README.md
-└── 📊 dataset (external - Kaggle)
+## 📂 Project Resources
+For a detailed review of the full report, have a look at the files below:
 
-jupyter notebook blr-resto-analysis-using-python.ipynb
-
-📌 Project Resources
-📊 Dataset:
+* **[blr-resto-analysis-using-python.ipynb](./blr-resto-analysis-using-python.ipynb):** The complete Python code, including data cleaning, visualization, and statistical analysis.
+* **[Bangalore_Resto_Success_Analysis.pdf](./BLR_Resto_Success_Analysis_Project.pdf):** The comprehensive project report exported from JupyterLab for a readable overview of all findings.
+  
+📊 Real World Dataset used:
 https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
 📘 Python Libraries Documentation:
