@@ -140,6 +140,9 @@ https://pandas.pydata.org/docs/
 https://seaborn.pydata.org/
 https://matplotlib.org/stable/
 
+📄 **License:** This project is licensed under CC BY-NC-ND 4.0.  
+Commercial use or redistribution without permission is prohibited.
+
 ## 👤 Author
 ### Yash Mastakar
 #### Aspiring Data Analyst | Python | SQL | Power BI | Data-Driven Decision Making
